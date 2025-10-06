@@ -145,5 +145,5 @@ O₂ extraction experiments → surplus carbon → CME → water/air filters & t
 
 ---
 
-*This hackathon demonstrator builds on published NASA/ESA data.  The repository is part of a NASA Space Apps Hackathon project.  
-The PHOENIX model is exploratory and intended for concept visualization.*
+*This hackathon demonstrator builds on published NASA/ESA data. The repository is part of a NASA Space Apps Hackathon project.  
+The PHOENIX model is exploratory and intended for concept visualization. The 3D and Sankey visualizations are in progress.*
