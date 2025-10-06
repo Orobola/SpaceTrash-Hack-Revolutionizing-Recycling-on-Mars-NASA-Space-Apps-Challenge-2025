@@ -13,9 +13,9 @@ During a **three-year crewed mission to Mars**, 8 astronauts would generate **~1
 
 - **Inputs:** plastics, textiles, foam, aluminum, EVA waste, carbon surplus (from ISRU experiments)  
 - **Processing Modules:**  
-  - **PMA** – Plastic Melting & Additive Manufacturing (3D printing feedstock)  
+  - **PMA** – Polymer Melting & Additive (3D printing feedstock)  
   - **RIF** – Regolith-Integrated Fabrication (structural bricks, panels)  
-  - **MSU** – Modular Shaping Unit (tools, furniture, storage)  
+  - **MSU** – Modular Smart Upcycling (tools, furniture, storage)  
   - **CME** – Carbon Material Engineering (filters, insulation)  
 - **Outputs:** utensils, containers, panels, interior outfitting, tools, insulation
 
