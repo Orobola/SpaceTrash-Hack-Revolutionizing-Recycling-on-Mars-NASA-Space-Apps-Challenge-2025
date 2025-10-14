@@ -87,7 +87,7 @@ During a **three-year crewed mission to Mars**, 8 astronauts would generate **~1
 
 ---
 
-### 🪐 Summary
+### Summary
 
 From **12,600 kg** of inorganic waste, the PHOENIX system recovers approximately **10,477 kg** of usable materials across its four core modules, achieving an **83.17 % resource recovery rate** with only **16.83 % residual loss**.
 
@@ -117,7 +117,7 @@ O₂ extraction experiments → surplus carbon → CME → water/air filters & t
 
 ---
 
-## 🛰️ Why PHOENIX?  
+## Why PHOENIX?  
 - **Sustainability in Space:** reduces resupply dependency.  
 - **Circular Economy:** turns mission refuse into infrastructure.  
 - **Scalability:** modular units for exploration → base camp → settlement.  
